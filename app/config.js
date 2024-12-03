@@ -1,6 +1,6 @@
 var config = {
     salvarDados: true,
-    debug: false,
+    debug: true,
     waterMark: false,
     language: 'pt-br',
     video: 'default',
@@ -8,7 +8,7 @@ var config = {
         name: 'default'
     },
     acessibility: {
-        tools: true,
+        tools: false,
         outlines: false,
         vlibras: false,
         customLibras: false
